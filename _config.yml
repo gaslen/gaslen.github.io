@@ -11,7 +11,7 @@ title                    : "Gaston Lenczner"
 title_separator          : "-"
 name                     : &name "Gaston Lenczner"
 description              : &description "PhD student at Delair and ONERA"
-url                      :  "http://127.0.0.1:4000/" #https://gaslen.github.io  # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  https://gaslen.github.io #"http://127.0.0.1:4000/" #https://gaslen.github.io  # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gaslen/gaslen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -86,7 +86,7 @@ author:
   location         : "Paris, France"
   employer         : 
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "citations?user=YNJsSRsAAAAJ&hl=en&oi=ao"
   email            : "gaston.lenczner@delair.aero"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "UCFyhzZA455feE3x9nldmj0Q"
   wikipedia        :
   personal         : 
 

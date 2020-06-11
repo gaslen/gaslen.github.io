@@ -53,3 +53,18 @@ ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Scien
 ## Segmentation sémantique d’images aériennes avec améliorations interactives
 *G. Lenczner, B. Le Saux, N. Luminari, A. Chan Hon Tong, G. Le Besnerais*  
 Reconnaissance des Formes, Image, Apprentissage et Perception (RFIAP), 2020
+<normal>
+    <a href="https://youtu.be/i-sOE6Q_aR8" style="color:page.header.overlay_color">[video]</a>
+    <a href="https://drive.google.com/file/d/1wD8Ccuf-ZIGQLhEy250P89Id1FNJI_PX/view" style="color:page.header.overlay_color">[slides]</a>
+</normal>
+
+
+
+Segmentation sémantique d'images aériennes avec améliorations interactives
+
+Présentation vidéo de notre papier accepté à RFIAP 2020.
+Slides: https://drive.google.com/file/d/1wD8Ccuf-ZIGQLhEy250P89Id1FNJI_PX/view?usp=sharing
+Article: A venir
+
+Si vous avez des question ou des remarques, n'hésitez pas à ma contacter:
+gaston.lenczner@delair.aero
