@@ -9,6 +9,6 @@ redirect_from:
 ---
 I am a PhD student at [Delair](https://www.delair.aero/) and [ONERA (DTIS/IVA)](https://www.onera.fr/) under the supervision of [Adrien Chan-Hon-Tong](https://www.onera.fr/en/staff/adrien-chan-hon-tong), [Nicola Luminari](https://www.linkedin.com/in/nicola-luminari-0a873a31/?originalSubdomain=fr), [Bertrand Le Saux](https://blesaux.github.io/) and Guy Le Besnerais.
 
-My main areas of research are computer vision and machine learning applied to remote sensing.
+My research work lies between statistics, computer vision and machine learning with applications to remote sensing.
 
-My PhD thesis aims to build interactive neural networks to enhance the synergy between human end-users and deep neural networks for semantic segmentation. 
+My PhD thesis aims to design interactive deep neural networks to build a collaboration between the algorithm and an user in order to efficiently collect semantic segmentation maps of remote sensing images. 
