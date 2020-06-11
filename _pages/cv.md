@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Vision and Remote Sensing, Delair and ONERA, 2018-2021 (expected)
+* Ph.D in Computer Vision and Remote Sensing, Delair and ONERA, 2019-2022 (expected)
 * M.S. in Statistics, Sorbonne Université (Paris VI), 2016-2018
 * B.S. in Mathematics,Sorbonne Université (Paris VI), 2013-2016
 
@@ -43,4 +43,4 @@ Main skills
   
 Other
 ======
-* Reviewer for ISPRS Congress 2020
+* Reviewer for  XXIVth ISPRS Congress 2020
