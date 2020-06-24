@@ -54,6 +54,7 @@ ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Scien
 *G. Lenczner, B. Le Saux, N. Luminari, A. Chan Hon Tong, G. Le Besnerais*  
 Reconnaissance des Formes, Image, Apprentissage et Perception (RFIAP), 2020
 <normal>
+    <a href="https://cap-rfiap2020.sciencesconf.org/data/RFIAP_2020_paper_10.pdf" style="color:page.header.overlay_color">[PDF]</a>
     <a href="https://youtu.be/i-sOE6Q_aR8" style="color:page.header.overlay_color">[video]</a>
     <a href="https://drive.google.com/file/d/1wD8Ccuf-ZIGQLhEy250P89Id1FNJI_PX/view" style="color:page.header.overlay_color">[slides]</a>
 </normal>
