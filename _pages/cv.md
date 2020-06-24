@@ -29,7 +29,7 @@ Work experience
   * Duration: 6 months
   * Supervisor: Dr. Yann Ameho
 
-* 2017: Internship at Laboratoire Jacque-Louis Lions
+* 2017: Internship at Laboratoire Jacques-Louis Lions
   * Topic: Hygroscopic model of the evolution of aerosol droplets in the respiratory system
   * Duration: 3 months
   * Supervisor: Dr. Laurent Boudin
