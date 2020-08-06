@@ -32,7 +32,7 @@ author_profile: true
 *G. Lenczner, B. Le Saux, N. Luminari, A. Chan Hon Tong, G. Le Besnerais*  
 ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 2020
 <normal>
-    <a href="https://arxiv.org/abs/2003.14200" style="color:page.header.overlay_color">[preprint]</a>
+    <a href="https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-2-2020/877/2020/isprs-annals-V-2-2020-877-2020.pdf" style="color:page.header.overlay_color">[PDF]</a>
     <a href="https://github.com/delair-ai/DISIR" style="color:page.header.overlay_color">[GitHub]</a>
     <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bibtex_disir');">[BibTeX]</a>
 </normal>
@@ -40,12 +40,15 @@ ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Scien
 <small>
 <a class="btn"  onclick="copyToClip('bib_disir');">copy to clipboard</a>
 <div class="highlighter-rouge"><pre id="bib_disir" class="highlight">
-@article{lenczner_disir_2020,
-    title={DISIR: Deep Image Segmentation with Interactive Refinement},
-    author={Lenczner, Gaston and {Le Saux}, Bertrand and Luminari, Nicola and {Chan Hon Tong}, Adrien and {Le Besnerais}, Guy},
-    journal={ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
-    year = {2020},
-    publisher={Copernicus GmbH}
+@Article{isprs-annals-V-2-2020-877-2020,
+AUTHOR = {Lenczner, G. and Le Saux, B. and Luminari, N. and Chan-Hon-Tong, A. and Le Besnerais, G.},
+TITLE = {DISIR: DEEP IMAGE SEGMENTATION WITH INTERACTIVE REFINEMENT},
+JOURNAL = {ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences},
+VOLUME = {V-2-2020},
+YEAR = {2020},
+PAGES = {877--884},
+URL = {https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-2-2020/877/2020/},
+DOI = {10.5194/isprs-annals-V-2-2020-877-2020}
 }
 </pre></div></small>
 </div>
