@@ -1,10 +1,10 @@
 ---
-layout: single
-title: "Publications"
-permalink: /publications/
+layout: "single"
+title: ""
+permalink: "/research/"
 author_profile: true
----
 
+---
 
 <script type="text/javascript">
    function toggleVisibility(block_id) {
@@ -27,12 +27,37 @@ author_profile: true
 };
 </script>
 
+# Publications
+
+## Interactive Learning for Semantic Segmentation in Earth Observation
+*G. Lenczner, A. Chan Hon Tong, N. Luminari, B. Le Saux, G. Le Besnerais*  
+ECML-PKDD 2020, MACLEAN Workshop.
+<span style="color:#e49b0f">*Best Student Paper Award.*</span>
+<normal>
+    <a href="https://drive.google.com/file/d/11DzAwKGPvGvC7kOtN3FiqVZVAAFGU4-X/view" style="color:page.header.overlay_color">[PDF]</a>
+    <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bibtex_disir');">[BibTeX]</a>
+</normal>
+<div id="bibtex_disir" style="display:none;">
+<small>
+<a class="btn"  onclick="copyToClip('bib_disir');">copy to clipboard</a>
+<div class="highlighter-rouge"><pre id="bib_disir" class="highlight">
+@inproceedings{lenczner2020interactive,
+author = {Lenczner, G. and Chan-Hon-Tong, A. and Luminari, N. and Le Saux, B. and Le Besnerais, G.},
+title = {Interactive Learning for Semantic Segmentation in Earth Observation},
+booktitle = {ECML-PKDD MACLEAN Workshop},
+year = {2020},
+}
+</pre></div></small>
+</div>
+
+
 
 ## DISIR: Deep Interactive Segmentation with Interactive Refinements
 *G. Lenczner, B. Le Saux, N. Luminari, A. Chan Hon Tong, G. Le Besnerais*  
 ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 2020
 <normal>
     <a href="https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-2-2020/877/2020/isprs-annals-V-2-2020-877-2020.pdf" style="color:page.header.overlay_color">[PDF]</a>
+    <a href="https://youtu.be/SOhylBJJTjY" style="color:page.header.overlay_color">[video]</a>
     <a href="https://github.com/delair-ai/DISIR" style="color:page.header.overlay_color">[GitHub]</a>
     <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bibtex_disir');">[BibTeX]</a>
 </normal>
@@ -61,3 +86,14 @@ Reconnaissance des Formes, Image, Apprentissage et Perception (RFIAP), 2020
     <a href="https://youtu.be/i-sOE6Q_aR8" style="color:page.header.overlay_color">[video]</a>
     <a href="https://drive.google.com/file/d/1wD8Ccuf-ZIGQLhEy250P89Id1FNJI_PX/view" style="color:page.header.overlay_color">[slides]</a>
 </normal>
+
+------
+
+
+# Talks
+
+### Semantic segmentation of remote sensing images with interactive refinements.
+ *AI4Geo web-seminary*, July 2020 <a href="https://drive.google.com/file/d/1ZIX_f4JynthwssQsQUnmcsHD5fXdMSbK/view?usp=sharing" style="color:page.header.overlay_color">[slides]</a>
+
+### Guided AI for interactive semantic segmentation.
+*ESA EO Φ-Week*, September 2020 <a href="https://www.youtube.com/watch?v=txN8L2mHYrM" style="color:page.header.overlay_color">[video]</a>
