@@ -35,12 +35,12 @@ ECML-PKDD 2020, MACLEAN Workshop.
 <span style="color:#e49b0f">*Best Student Paper Award.*</span>
 <normal>
     <a href="https://drive.google.com/file/d/11DzAwKGPvGvC7kOtN3FiqVZVAAFGU4-X/view" style="color:page.header.overlay_color">[PDF]</a>
-    <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bibtex_disir');">[BibTeX]</a>
+    <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bibtex_disca');">[BibTeX]</a>
 </normal>
-<div id="bibtex_disir" style="display:none;">
+<div id="bibtex_disca" style="display:none;">
 <small>
-<a class="btn"  onclick="copyToClip('bib_disir');">copy to clipboard</a>
-<div class="highlighter-rouge"><pre id="bib_disir" class="highlight">
+<a class="btn"  onclick="copyToClip('bib_disca');">copy to clipboard</a>
+<div class="highlighter-rouge"><pre id="bib_disca" class="highlight">
 @inproceedings{lenczner2020interactive,
 author = {Lenczner, G. and Chan-Hon-Tong, A. and Luminari, N. and Le Saux, B. and Le Besnerais, G.},
 title = {Interactive Learning for Semantic Segmentation in Earth Observation},
