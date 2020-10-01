@@ -35,6 +35,7 @@ ECML-PKDD 2020, MACLEAN Workshop.
 <span style="color:#e49b0f">*Best Student Paper Award.*</span>
 <normal>
     <a href="https://drive.google.com/file/d/11DzAwKGPvGvC7kOtN3FiqVZVAAFGU4-X/view" style="color:page.header.overlay_color">[PDF]</a>
+    <a href="https://github.com/delair-ai/DISCA" style="color:page.header.overlay_color">[GitHub]</a>
     <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bibtex_disca');">[BibTeX]</a>
 </normal>
 <div id="bibtex_disca" style="display:none;">
@@ -92,8 +93,8 @@ Reconnaissance des Formes, Image, Apprentissage et Perception (RFIAP), 2020
 
 # Talks
 
-### Semantic segmentation of remote sensing images with interactive refinements.
- *AI4Geo web-seminary*, July 2020 <a href="https://drive.google.com/file/d/1ZIX_f4JynthwssQsQUnmcsHD5fXdMSbK/view?usp=sharing" style="color:page.header.overlay_color">[slides]</a>
-
 ### Guided AI for interactive semantic segmentation.
 *ESA EO Φ-Week*, September 2020 <a href="https://www.youtube.com/watch?v=txN8L2mHYrM" style="color:page.header.overlay_color">[video]</a>
+
+### Semantic segmentation of remote sensing images with interactive refinements.
+ *AI4Geo web-seminary*, July 2020 <a href="https://drive.google.com/file/d/1ZIX_f4JynthwssQsQUnmcsHD5fXdMSbK/view?usp=sharing" style="color:page.header.overlay_color">[slides]</a>
