@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Computer Vision and Remote Sensing, Delair and ONERA, 2019-2022 (expected)
 * M.S. in Statistics, Sorbonne Université (Paris VI), 2016-2018
-* B.S. in Mathematics,Sorbonne Université (Paris VI), 2013-2016
+* B.S. in Mathematics, Sorbonne Université (Paris VI), 2013-2016
 
 
 Work experience
@@ -43,4 +43,5 @@ Main skills
   
 Other
 ======
-* Reviewer for  XXIVth ISPRS Congress 2020
+* Reviewer for  XXIVth ISPRS Congress 2020 and ECML-PKDD MACLEAN Workshop 2020
+* Teaching assistant, **[MI203](https://synapses.ensta-paris.fr/catalogue/2018-2019/ue/3278/MI203-apprentissage-automatique)** *Apprentissage automatique*, ENSTA, 2020
