@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gaston Lenczner"
 title_separator          : "-"
 name                     : &name "Gaston Lenczner"
-description              : &description "PhD student at Delair and ONERA"
+description              : &description "PhD student at Alteia and ONERA"
 url                      :  https://gaslen.github.io #"http://127.0.0.1:4000/" #https://gaslen.github.io  # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gaslen/gaslen.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             :  "Gaston Lenczner"
   avatar           : "profil.png"
-  bio              : "PhD student at Delair and ONERA"
+  bio              : "PhD student at Alteia and ONERA"
   location         : "Paris, France"
   employer         : 
   pubmed           : 
   googlescholar    : "citations?user=YNJsSRsAAAAJ&hl=en&oi=ao"
-  email            : "gaston.lenczner@delair.aero"
+  email            : "gaston.lenczner@alteia.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -265,6 +265,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

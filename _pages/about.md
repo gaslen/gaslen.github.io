@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student at [Delair](https://www.delair.aero/) and [ONERA (DTIS/IVA)](https://www.onera.fr/) under the supervision of [Adrien Chan-Hon-Tong](https://www.onera.fr/en/staff/adrien-chan-hon-tong), [Nicola Luminari](https://www.linkedin.com/in/nicola-luminari-0a873a31/?originalSubdomain=fr), [Bertrand Le Saux](https://blesaux.github.io/) and Guy Le Besnerais.
+I am a PhD student at [Alteia](https://alteia.com/) and [ONERA (DTIS/IVA)](https://www.onera.fr/) under the supervision of [Adrien Chan-Hon-Tong](https://www.onera.fr/en/staff/adrien-chan-hon-tong), [Nicola Luminari](https://www.linkedin.com/in/nicola-luminari-0a873a31/?originalSubdomain=fr), [Bertrand Le Saux](https://blesaux.github.io/) and Guy Le Besnerais.
 
 My research work lies between statistics, computer vision and machine learning with applications to remote sensing.
 

@@ -248,6 +248,7 @@ DEPENDENCIES
   github-pages
   hawkins
   jekyll-feed
+  jekyll-seo-tag
   jekyll-sitemap
 
 BUNDLED WITH
