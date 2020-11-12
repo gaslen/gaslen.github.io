@@ -34,7 +34,7 @@ author_profile: true
 ECML-PKDD 2020, MACLEAN Workshop.
 <span style="color:#e49b0f">*Best Student Paper Award.*</span>
 <normal>
-    <a href="https://drive.google.com/file/d/11DzAwKGPvGvC7kOtN3FiqVZVAAFGU4-X/view" style="color:page.header.overlay_color">[PDF]</a>
+    <a href="http://ceur-ws.org/Vol-2766/paper1.pdf" style="color:page.header.overlay_color">[PDF]</a>
     <a href="https://github.com/delair-ai/DISCA" style="color:page.header.overlay_color">[GitHub]</a>
     <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bibtex_disca');">[BibTeX]</a>
 </normal>
