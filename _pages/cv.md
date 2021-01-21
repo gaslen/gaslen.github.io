@@ -41,7 +41,7 @@ Work experience
 * Languages: French, English -->
 
   
-Reviews
+Reviewer
 ======
 * **Conferences**:  [XXIVth ISPRS Congress 2020](http://www.isprs2020-nice.com/), [ECML-PKDD MACLEAN Workshop 2020](https://sites.google.com/view/maclean2020/home?authuser=0).
 * **Journals**: [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
@@ -49,4 +49,5 @@ Reviews
 
 Teaching assistant
 ======
-* **Machine Learning**, *ENSTA*, 2020
+* **Machine Learning** [MI203](https://synapses.ensta-paris.fr/catalogue/2020-2021/ue/239/MI203-apprentissage-automatique-machine-learning), *ENSTA ParisTech, 2nd year *, 2020
+* **Pattern Recognition and Machine Learning** [9P-441-SCI](https://synapses.institutoptique.fr/catalogue/2020-2021/ue/278/9P-441-SCI-apprentissage-et-reconnaissance-de-formes), *IOGS, 3rd year & Master ATSI Paris Saclay*, 2021
