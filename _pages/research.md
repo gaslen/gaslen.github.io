@@ -29,6 +29,29 @@ author_profile: true
 
 # Publications
 
+![disca](/images/igarss21.png){: style="float: left; margin-right: 1em;height: 100px; margin-top: 1.5em;width: 130px"} 
+### Demotivate adversarial defense in remote sensing
+*A. Chan-Hon-Tong, G. Lenczner, A. Plyer*  
+International Geoscience and Remote Sensing Symposium (IGARSS) 2021.
+<br />
+    <a href="https://arxiv.org/pdf/2105.13902.pdf" style="color:page.header.overlay_color">[PDF]</a>
+    <!-- <a href="https://github.com/delair-ai/DISCA" style="color:page.header.overlay_color">[GitHub]</a> -->
+    <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bibtex_igarss');">[BibTeX]</a>
+<!-- </p> -->
+<!-- </normal> -->
+<div id="bibtex_igarss" style="display:none;">
+<small>
+<a class="btn"  onclick="copyToClip('bib_igarss');">copy to clipboard</a>
+<div class="highlighter-rouge"><pre id="bib_igarss" class="highlight">
+@inproceedings{cht2021demotivate,
+author = {Chan-Hon-Tong, A. and Lenczner, G. and Plyer, A.},
+title = {Demotivate adversarial defense in remote sensing},
+booktitle = {IGARSS},
+year = {2021},
+}
+</pre></div></small>
+</div>
+
 ![disca](/images/disca.png){: style="float: left; margin-right: 1em;height: 100px; margin-top: 1.5em;width: 130px"} 
 ### Interactive Learning for Semantic Segmentation in Earth Observation
 *G. Lenczner, A. Chan Hon Tong, N. Luminari, B. Le Saux, G. Le Besnerais*  
@@ -59,7 +82,7 @@ year = {2020},
 ![disir](/images/disir.png){: style="float: left; margin-right: 1em;height: 100px; margin-top: 1.5em;width: 130px"}
 ### DISIR: Deep Interactive Segmentation with Interactive Refinements
 *G. Lenczner, B. Le Saux, N. Luminari, A. Chan Hon Tong, G. Le Besnerais*  
-ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 2020
+ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 2020.
 <br />
     <a href="https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-2-2020/877/2020/isprs-annals-V-2-2020-877-2020.pdf" style="color:page.header.overlay_color">[PDF]</a>
     <a href="https://youtu.be/SOhylBJJTjY" style="color:page.header.overlay_color">[video]</a>
@@ -85,7 +108,7 @@ DOI = {10.5194/isprs-annals-V-2-2020-877-2020}
 ![rfiap](/images/rfiap.png){: style="float: left; margin-right: 1em;height: 120px; margin-top: 1.5em;width: 130px"}
 ### Segmentation sémantique d’images aériennes avec améliorations interactives
 *G. Lenczner, B. Le Saux, N. Luminari, A. Chan Hon Tong, G. Le Besnerais*  
-Reconnaissance des Formes, Image, Apprentissage et Perception (RFIAP), 2020
+Reconnaissance des Formes, Image, Apprentissage et Perception (RFIAP), 2020.
 <br />
     <a href="https://cap-rfiap2020.sciencesconf.org/data/RFIAP_2020_paper_10.pdf" style="color:page.header.overlay_color">[PDF]</a>
     <a href="https://youtu.be/i-sOE6Q_aR8" style="color:page.header.overlay_color">[video]</a>
