@@ -29,7 +29,56 @@ author_profile: true
 
 # Publications
 
-![disca](/images/igarss21.png){: style="float: left; margin-right: 1em;height: 100px; margin-top: 1.5em;width: 130px"} 
+![icss](/images/icss.png){: style="float: left; margin-right: 1em;height: 120px; margin-top: 2.5em;width: 130px"} 
+### Weakly-supervised continual learning for class-incremental segmentation
+*G. Lenczner, A. Chan Hon Tong, N. Luminari, B. Le Saux*  
+Submitted.
+<!-- <normal> -->
+<!-- <p style="text-align: right;"> -->
+<br />
+    <a href="https://arxiv.org/abs/2201.01029" style="color:page.header.overlay_color">[PDF]</a>
+    <a href="https://github.com/alteia-ai/ICSS" style="color:page.header.overlay_color">[GitHub]</a>
+    <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bibtex_icss');">[BibTeX]</a>
+<!-- </p> -->
+<!-- </normal> -->
+<div id="bibtex_icss" style="display:none;">
+<small>
+<a class="btn"  onclick="copyToClip('bib_icss');">copy to clipboard</a>
+<div class="highlighter-rouge"><pre id="bib_icss" class="highlight">
+@article{lenczner2022weakly,
+author = {Lenczner, G. and Chan-Hon-Tong, A. and Luminari, N. and Le Saux, B.},
+title = {Weakly-supervised continual learning for class-incremental segmentation},
+journal={arXiv preprint arXiv:2201.01029},
+year = {2022},
+}
+</pre></div></small>
+</div>
+
+
+![dial](/images/dial.png){: style="float: left; margin-right: 1em;height: 100px; margin-top: 1.5em;width: 130px"} 
+### DIAL: Deep Interactive and Active Learning for Semantic Segmentation in Remote Sensing
+*G. Lenczner, A. Chan Hon Tong, B. Le Saux, N. Luminari, G. Le Besnerais*  
+Submitted.
+<br />
+    <a href="https://arxiv.org/abs/2201.01047" style="color:page.header.overlay_color">[PDF]</a>
+    <!-- <a href="https://github.com/delair-ai/DISCA" style="color:page.header.overlay_color">[GitHub]</a> -->
+    <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bibtex_dial');">[BibTeX]</a>
+<!-- </p> -->
+<!-- </normal> -->
+<div id="bibtex_dial" style="display:none;">
+<small>
+<a class="btn"  onclick="copyToClip('bib_dial');">copy to clipboard</a>
+<div class="highlighter-rouge"><pre id="bib_dial" class="highlight">
+@article{lenczner2022dial,
+author = {Lenczner, Gaston and Chan-Hon-Tong, Adrien and Le Saux, Bertrand and Luminari, Nicola and  Le Besnerais, Guy},
+title = {DIAL: Deep Interactive and Active Learning for Semantic Segmentation in Remote Sensing},
+journal = {arXiv preprint arXiv:2201.01047},
+year = {2022},
+}
+</pre></div></small>
+</div>
+
+![adv](/images/igarss21.png){: style="float: left; margin-right: 1em;height: 100px; margin-top: 1.5em;width: 130px"} 
 ### Demotivate adversarial defense in remote sensing
 *A. Chan-Hon-Tong, G. Lenczner, A. Plyer*  
 International Geoscience and Remote Sensing Symposium (IGARSS) 2021.

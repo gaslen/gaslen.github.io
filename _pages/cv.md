@@ -49,5 +49,5 @@ Reviewer
 
 Teaching assistant
 ======
-* **Machine Learning** [MI203](https://synapses.ensta-paris.fr/catalogue/2020-2021/ue/239/MI203-apprentissage-automatique-machine-learning), *ENSTA ParisTech 2nd year*, 2020
-* **Pattern Recognition and Machine Learning** [9P-441-SCI](https://synapses.institutoptique.fr/catalogue/2020-2021/ue/278/9P-441-SCI-apprentissage-et-reconnaissance-de-formes), *IOGS 3rd year & Master ATSI Paris Saclay*, 2021
+* **Machine Learning** [MI203](https://synapses.ensta-paris.fr/catalogue/2020-2021/ue/239/MI203-apprentissage-automatique-machine-learning), *ENSTA ParisTech 2nd year*, 2020 - 2022
+* **Pattern Recognition and Machine Learning** [9P-441-SCI](https://synapses.institutoptique.fr/catalogue/2020-2021/ue/278/9P-441-SCI-apprentissage-et-reconnaissance-de-formes), *IOGS 3rd year & Master ATSI Paris Saclay*, 2021 - 2022
