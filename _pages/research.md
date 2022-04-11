@@ -32,7 +32,7 @@ author_profile: true
 ![icss](/images/icss.png){: style="float: left; margin-right: 1em;height: 120px; margin-top: 2.5em;width: 130px"} 
 ### Weakly-supervised continual learning for class-incremental segmentation
 *G. Lenczner, A. Chan Hon Tong, N. Luminari, B. Le Saux*  
-Submitted.
+International Geoscience and Remote Sensing Symposium (IGARSS) 2022.
 <!-- <normal> -->
 <!-- <p style="text-align: right;"> -->
 <br />
@@ -58,9 +58,10 @@ year = {2022},
 ![dial](/images/dial.png){: style="float: left; margin-right: 1em;height: 100px; margin-top: 1.5em;width: 130px"} 
 ### DIAL: Deep Interactive and Active Learning for Semantic Segmentation in Remote Sensing
 *G. Lenczner, A. Chan Hon Tong, B. Le Saux, N. Luminari, G. Le Besnerais*  
-Submitted.
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (J-STARS)
 <br />
     <a href="https://arxiv.org/abs/2201.01047" style="color:page.header.overlay_color">[PDF]</a>
+    <a href="https://github.com/alteia-ai/DIAL" style="color:page.header.overlay_color">[GitHub]</a>
     <!-- <a href="https://github.com/delair-ai/DISCA" style="color:page.header.overlay_color">[GitHub]</a> -->
     <a style="color:page.header.overlay_color; cursor: pointer; cursor: hand;" onclick="toggleVisibility('bibtex_dial');">[BibTeX]</a>
 <!-- </p> -->
