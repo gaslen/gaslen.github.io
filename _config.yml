@@ -82,12 +82,12 @@ analytics:
 author:
   name             :  "Gaston Lenczner"
   avatar           : "profil3.png"
-  bio              : "PhD student at Alteia and ONERA"
-  location         : "Paris, France"
+  bio              : "Postdoc at ECEO, EPFL"
+  location         : "Sion, Switzerland"
   employer         : 
   pubmed           : 
   googlescholar    : "citations?user=BC81wnUAAAAJ&hl=fr"
-  email            : "gaston.lenczner@alteia.com"
+  email            : "gaston.lenczner@epfl.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          : "UCFyhzZA455feE3x9nldmj0Q"
   wikipedia        :
-  personal         : 
+  personal         : https://bleau.info/profiles/gaston.lenczner
 
 # Reading Files
 include:
